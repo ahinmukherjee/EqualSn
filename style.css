@@ -38,3 +38,7 @@
     display: grid;
     grid-template: repeat(30, 1fr) / repeat(30 , 1fr);
 }
+
+.board .food{
+    background: red;
+}
